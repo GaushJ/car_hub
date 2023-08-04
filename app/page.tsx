@@ -46,7 +46,6 @@ export default function Home() {
     }
   }
   useEffect(() => {
-    console.log("useEffect hook triggered")
     getCars()
   }, [fuel, year, limit, maufacturer, model])
 
@@ -71,7 +70,7 @@ export default function Home() {
         {allCars.length > 0 ? (
           <section>
             <div className='home__cars-wrapper'>
-              {allCars.map((car) => <CardCard car={car} />)}
+              {allCars.map((car,index) => <CardCard car={car} key={index}/>)}
             </div>
 
             {loading && (
