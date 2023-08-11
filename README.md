@@ -1,5 +1,5 @@
 
-# Next.js Project Repository
+# CarHub 
 
 ![Next.js Project](https://github.com/GaushJ/car_hub/assets/53349226/7de9c3c3-93d5-4a33-9bf9-3d78ebd58e02)
 
