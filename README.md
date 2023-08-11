@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Next.js Project Repository
 
-First, run the development server:
+![Next.js Project](https://github.com/GaushJ/car_hub/assets/53349226/7de9c3c3-93d5-4a33-9bf9-3d78ebd58e02)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Frontend:**
+- Next.js
+- React
+- CSS Modules
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Backend:**
+- Node.js
+- Express.js
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**Database:**
+- MongoDB
 
-## Learn More
+**Deployment:**
+- Vercel
 
-To learn more about Next.js, take a look at the following resources:
+## Project Description
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This repository contains a Next.js project that showcases the power of server-side rendering and a modern frontend stack. The project utilizes React and Next.js for building a fast and dynamic user interface. CSS Modules are used for styling, ensuring encapsulation and maintainability.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+On the backend, the project is powered by Node.js and Express.js, providing a solid foundation for handling API requests and serving content to the frontend. MongoDB serves as the database, storing and retrieving the necessary data for the application.
 
-## Deploy on Vercel
+The entire application is deployed using Vercel, ensuring seamless and automated deployment as well as scalability. This project serves as a great example of a full-stack web application, highlighting the capabilities of Next.js and the chosen technology stack.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feel free to explore the code, contribute, and use this project as a learning resource for building your own Next.js applications!
