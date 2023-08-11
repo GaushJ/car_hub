@@ -45,7 +45,7 @@ Welcome to the Car Rental Marketplace UI project! This web application is design
 
 This project is deployed using Vercel, ensuring high availability and performance. Feel free to explore the project's code, contribute, or use it as a reference for creating your own car rental marketplace UI!
 
-For a live demo, visit [Car Rental Marketplace UI]([https://your-live-demo-url.com](https://car-hub-nu-taupe.vercel.app/)https://car-hub-nu-taupe.vercel.app/).
+For a live demo, visit [Car Rental Marketplace UI][https://car-hub-nu-taupe.vercel.app/].
 
 
 
